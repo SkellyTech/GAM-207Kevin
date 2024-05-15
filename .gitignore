@@ -1,0 +1,15 @@
+#Complied binary files
+Binaries/
+Interemeditae/
+Saved/
+
+
+#Generated Files
+DerivedDataCache/
+.vs/
+.idea/
+
+#Ignore system-specific files
+*.suo
+*.opensdf
+*.sdf
